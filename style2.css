@@ -1,0 +1,44 @@
+.btn{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5%;
+    box-shadow: 1px 1px 5px gray;
+    color: white;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.btn:hover{
+    background-color: rgb(55, 55, 131);
+}
+
+.btn2{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5%;
+    box-shadow: 1px 1px 5px gray;
+    color: white;
+    font-size: 2em
+}
+
+.btn2:hover{
+    background-color: red;;
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+}
+
+.contador{
+    margin: 20px;
+    color: white;
+    font-size: 2.5em;
+}
+
+body{
+    background-image: url('clio.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
